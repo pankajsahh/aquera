@@ -1,0 +1,12 @@
+.paginationButton{
+    border: 1px solid #3b3b3b;
+    border-radius: 5px;
+    padding: 8px 16px;
+    transition: 300ms;
+}
+
+.paginationButton:hover{
+    color: aliceblue;
+    background-color: #3b3b3b;
+    
+}

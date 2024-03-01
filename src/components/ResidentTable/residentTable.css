@@ -1,0 +1,17 @@
+.tableContainer {
+  margin-top: 10px;
+}
+.detailsTable {
+  background: #025e73;
+  border-radius: 5px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: left;
+}

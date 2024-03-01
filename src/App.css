@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #18D9C5;
+  color: #ffffff;
+}
+
+.header{
+  position: fixed;
+  top:0px;
+  left: 0px;
+  width: 100%;
+  background: #025E73 ;
+  z-index: 1000;
+}
+
+
+
+
+.PageBody {
+  max-width: 80%;
+  margin:  120px auto 20px auto;
+}
+
+
+.PlanetsContainer{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2%;
+  justify-content: center;
+}
+
+.planetCard {
+  max-width: 43%;
+  margin: 10px 0;
+  background-color: #012340;
+  box-shadow: 2px 2px 7px  #012340;
+  cursor: pointer;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+
+
+
